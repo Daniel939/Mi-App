@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="Titulo">Confirmar Datos</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripción del contacto</string>
+    <string name="Boton">Siguiente</string>
+    <string name="Boton2">Editar Datos</string>
+</resources>
